@@ -1,4 +1,4 @@
-<H3>Enter Name: Manoj M H</H3>
+<H3>Enter Name: Manoj M </H3>
 <H3>Enter Register No: 212221240027</H3>
 <H3>Experiment 2</H3>
 <h1 align =center>Implementation of Exact Inference Method of Bayesian Network</h1>
